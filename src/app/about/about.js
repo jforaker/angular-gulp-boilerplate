@@ -1,6 +1,5 @@
 angular.module('ngbp-gulp.about', [
-	'ui.router',
-	'placeholders'
+	'ui.router'
 ])
 
 	.config(function config($stateProvider) {
